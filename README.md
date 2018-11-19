@@ -1,2 +1,2 @@
 # sort
-Presentation for  various sorting algorithm
+Presentation for  various sorting algorithms.
